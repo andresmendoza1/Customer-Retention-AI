@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3n69fu7s6Dz4UKh9KTzLgd7GreXr/8c4Xq4lUMJ/Zps=",
+  "Source": "CustomerRetentionAPI",
+  "BasePath": "_content/CustomerRetentionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,6 @@
+@CustomerRetentionAPI_HostAddress = http://localhost:5274
+
+GET {{CustomerRetentionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

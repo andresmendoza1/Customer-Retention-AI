@@ -1,0 +1,1001 @@
+id,inactive_probability,incentive_type,response
+bcfe90f4-1352-48da-8de5-3f6b91fa4cdd,1.0,discount,accepted
+3cfaf354-d52a-49e4-bdb5-7db6ffa05e2a,0.21,recommendation,declined
+bf089ce5-8f41-49ba-9e37-89eb6964a976,0.56,discount,declined
+65bcdda6-9f91-442a-a095-0edbf29e656c,0.59,discount,accepted
+7c242dbc-a78e-4d3b-9a5f-66b877e2f749,0.42,recommendation,declined
+1c8403d8-3a3f-4463-b24b-ff6179873413,0.29,discount,accepted
+3b978956-da50-47ae-964d-bd1ad3342715,0.56,email recovery,declined
+caa34245-7a85-402c-8678-fd283bc561ee,0.15,recommendation,declined
+02227176-4086-458c-98c7-02095253c8a9,0.21,recommendation,declined
+38edc209-78eb-4cc3-bd8e-6e43e131778f,0.98,discount,declined
+3e58b4f7-36d7-47f8-814a-2b8007970773,0.84,email recovery,accepted
+515721bc-f9f8-41c1-88a9-e874962b51c2,0.91,recommendation,accepted
+c4316569-dcb3-4518-8354-1d815b0546ca,0.6,recommendation,accepted
+2c66aa5a-06e6-4451-b006-78b587bf6bf4,0.96,recommendation,accepted
+3cba606d-a4c3-4480-9de3-694ea6747c4e,0.64,recommendation,declined
+1d553d96-5e12-4065-9311-edebffda1aa9,0.49,discount,accepted
+585c07fd-db69-41ad-9fee-b0c262e775d9,0.03,recommendation,accepted
+407b4e1c-ea7b-4498-b040-edf19f3bcd6e,0.1,recommendation,declined
+d9da3ff1-82c0-497e-99a2-d15c03931a8e,0.39,recommendation,declined
+bf10532e-a9fe-4efd-abff-676af6becd0c,0.68,discount,accepted
+989ea64b-e407-4e0a-9782-2cd1368370a2,0.43,discount,accepted
+b7590790-6a35-490a-9a4b-4916d9e24e8a,0.88,discount,accepted
+9be51333-ce12-488d-9fa2-73734de92ca3,0.06,discount,accepted
+d75c7458-1b04-459e-9236-cb294a79c14f,0.83,recommendation,accepted
+97635fa5-ae96-46f9-aa91-e0430f059489,0.41,discount,declined
+d15e61e1-9e4e-44c4-ad94-9be3e31ce915,0.47,discount,declined
+a29f9a86-228e-4bd5-a60b-b5484e8d55d5,0.92,recommendation,accepted
+f4a15c86-abf3-4d16-bcf3-1f1d3acd0ad7,0.77,discount,declined
+bb6b7c10-f54d-4258-bcc7-4b47aaee09b3,0.21,discount,accepted
+f2e50ce0-ac0d-477e-ae15-5594c5e3f964,0.93,discount,accepted
+9a1174e3-107d-4c90-9fc5-8985545bf8e0,0.68,email recovery,accepted
+79af77e3-e17a-491b-be80-2c077a41cec1,0.18,discount,declined
+fdbec87f-b9c9-42f0-a55f-08728eca2e9e,0.41,email recovery,accepted
+b0d3771a-4f8a-400e-9da0-76bffb893141,0.44,recommendation,declined
+7c1f9220-a12c-4d1c-8054-966d006ceb0e,0.26,recommendation,declined
+d8d263fc-7918-439a-89e1-236eb40feeb5,0.85,email recovery,accepted
+56c0b2ea-949b-4669-b250-95a7d26ef677,0.29,recommendation,accepted
+b61ef3ec-3037-4f80-b726-1b19709191d1,0.1,email recovery,declined
+8cb46a24-48a6-470b-98ba-7cd090f7af62,0.21,email recovery,accepted
+191a0273-077c-40ea-8ca3-eeb31fbdae07,0.21,recommendation,declined
+24bda09b-263f-47b7-bf2f-45e00b18f614,0.52,email recovery,accepted
+c1c9895a-eab3-4b45-8868-4c905bb5695e,0.59,recommendation,accepted
+e30a3900-38a6-4759-a5a1-bbd692d39ad2,0.98,email recovery,declined
+6579618a-bedf-4c2b-8caa-0a863ab131c9,0.81,email recovery,accepted
+5f7c0b16-0b50-49c7-ac72-527d8c570837,0.87,recommendation,declined
+cd8fe487-5f71-4ad9-b21c-41dfa685a858,0.05,recommendation,declined
+69c1ada4-fbb3-4795-aeaf-dd2c5fe46928,0.5,email recovery,accepted
+d9f4604a-d67f-4ee9-8fc6-efe59efaa247,0.2,recommendation,accepted
+955f7a0c-95f5-4197-a21a-74c132ce2d07,0.39,recommendation,accepted
+6090209f-dce6-4865-ad14-3bf937afe3c1,0.26,discount,declined
+b1b46f3b-7cd0-431c-8767-a0a899c6d304,0.6,discount,declined
+a85bac48-a843-4684-8882-b31f10242b68,0.16,discount,accepted
+e6e8997b-6a67-438e-9590-aa861c315acd,0.78,email recovery,declined
+2a03efd7-06e8-4d87-ad14-b832a328dea5,0.34,email recovery,declined
+51021c9e-9903-4be4-bee5-7b770799c4cb,0.21,recommendation,accepted
+416a9b80-6fee-422c-bf37-8f33e5da586d,0.92,email recovery,accepted
+331484e8-5bf9-4589-93a2-5050994305fe,0.96,recommendation,accepted
+4ac22812-52c6-49ed-a8fd-d27b3589d89a,0.65,discount,declined
+1436c4e2-5032-457c-a896-b7469afd891d,0.62,discount,declined
+cbe17ac8-1dc2-4d97-9714-9192b471e8e2,0.71,recommendation,accepted
+12b31411-d852-4cbf-90f5-d221844219fe,0.6,recommendation,accepted
+cd574ba6-db02-4a13-800b-e1cac8fb9e13,0.01,discount,declined
+56a20d88-51b9-42bd-b2d7-2b742c6da0ee,0.5,email recovery,declined
+6a138000-f0e9-40d1-b8e6-efd0a954ed92,0.54,recommendation,accepted
+0f0adada-8f31-4ebf-893b-acb49cbf8af8,0.36,discount,declined
+84bf900f-3f3e-4c05-93ed-e1c691c691ee,0.85,email recovery,accepted
+04909204-eeb6-4991-8087-9e7a3b9b2bb5,0.88,recommendation,accepted
+21c62a2f-cb48-4192-8a33-9e6fb7edf7c3,0.55,recommendation,accepted
+cb9a22e5-27a4-498e-9ac1-2c357e21e8f7,0.65,email recovery,accepted
+b840bc17-7d89-4973-9b41-a58cbeb066b4,0.3,recommendation,declined
+2fac9cfc-ca39-4dfd-a7b9-2a666e3ef77b,0.95,discount,accepted
+98bea5e6-b9bb-474f-a8bf-f39c1eda6348,0.82,recommendation,declined
+d5c11b1f-cc7e-4034-bbc3-4df01b1cf574,0.49,email recovery,declined
+86703193-10b0-4515-b4fa-908cbb23f924,0.3,email recovery,declined
+051965ab-cbb8-4857-961e-63e0f0d867a0,0.89,email recovery,declined
+44809029-331a-4d90-aad3-21554cd8a20d,0.2,email recovery,declined
+59994efd-9fd4-48a0-94d3-3c356965cc96,0.7,email recovery,accepted
+bc4146d9-5b83-4488-a223-9c8416495773,0.25,recommendation,declined
+fc354ce4-f3a2-44a8-9c35-ce19eaaac6c6,0.69,recommendation,accepted
+4e1ed089-22e6-487b-86d7-4f969023503b,0.65,discount,declined
+e962e1f2-ff29-4809-a053-733d6edc503e,0.91,email recovery,declined
+4a23a077-2c62-448d-b6e4-df03ed9ddd7e,0.05,discount,declined
+fa3d8a80-f06b-4738-8fa3-d07a3340ddc5,0.83,recommendation,declined
+6a206edd-c56d-472c-abb4-ea350d1e85a1,0.48,discount,accepted
+8bf70007-2f55-46c9-b850-356590cc6b7f,0.49,recommendation,accepted
+6d01c7ac-aa93-4a44-9433-8382b6a92ab0,0.79,discount,accepted
+fc4e9a05-23d5-4968-8439-d62b3c9aee45,0.61,recommendation,accepted
+97b498f8-5ca9-4323-afa5-b61cf985fce6,0.55,recommendation,accepted
+22b71669-cc0e-4385-aaff-2186960a158d,0.51,recommendation,accepted
+50f5f98e-0a54-44a2-a32c-2b16a7b829e0,0.6,discount,declined
+59035665-e408-46a0-88d8-a0fbbcc83417,0.65,recommendation,accepted
+1d667c7f-71db-45bc-96b0-9f861c26bfbf,0.57,discount,declined
+062f2cce-7a50-48e9-9e60-40bf80f2461e,0.87,recommendation,declined
+85e722f0-a1a8-41e3-a15b-735b1e78096f,0.24,email recovery,declined
+3a355b9b-f5fe-4854-af89-82b2831c12c1,0.43,email recovery,declined
+c6c50107-c587-4026-9a8b-3dcef40934d6,0.88,discount,declined
+3e00f039-1bc6-4281-8710-1db18250d420,0.12,discount,declined
+0ad70bf0-b31b-42c3-b6f6-d27f41f104cc,0.16,discount,accepted
+7818a3fc-acf1-40a6-a6f3-be88a7bd64b4,0.08,recommendation,declined
+5979fc22-3a28-4efa-88de-19751c6e199a,0.03,email recovery,accepted
+42588b32-93fe-4e76-b22d-2ad1ed67e956,0.21,recommendation,declined
+fe132c3b-3b67-415f-8362-7fbfe53e816f,0.92,recommendation,declined
+4f3398ae-10d1-4d31-8a36-c1e7d5be56a3,0.53,recommendation,declined
+364f1f4e-97f5-482f-af87-e7605187a868,0.18,recommendation,declined
+603598df-27fc-4422-ab1e-0b5aceee84cb,0.27,discount,declined
+4727213b-8fa0-44ab-8c3f-22159a8e8a98,0.88,recommendation,accepted
+d6dfcb0b-40b8-4a03-a729-ba4244c70a98,0.27,recommendation,declined
+0f789f27-c7cb-4fbe-9130-fc82ba96a6fa,0.06,recommendation,accepted
+7fff8b72-39ed-4dec-b505-6aaf3214c32f,0.74,email recovery,declined
+0610fdf8-1b47-4edd-b8b8-cbd24778ea61,0.92,recommendation,accepted
+fdc9fda3-f24d-417a-a332-af7cfbd43efe,0.69,recommendation,accepted
+decc74b2-5c7f-4dad-82ec-2208b00e57c8,0.41,email recovery,accepted
+77ce1a50-ecd2-47e4-95a0-ec209180290d,0.54,recommendation,accepted
+6e32e444-f72c-46e6-8bea-d08e52ae896d,0.2,discount,declined
+e26063ab-4eb9-4769-916a-1e5175fb27f8,0.02,email recovery,declined
+aeb006d5-c7fc-4e34-9d23-dc89af628ad3,0.64,email recovery,accepted
+bc73400d-7002-49b5-9757-22ff201564d7,0.7,email recovery,declined
+9c866536-55df-418c-82bb-fce8cd1b570a,0.53,discount,accepted
+87b4c014-9b2c-4b45-bded-26d2ad0565a6,0.56,email recovery,declined
+c0cc4f86-358a-4f2c-8bae-a56fc492b77d,0.83,discount,declined
+990a1687-3958-48f2-b189-f4ff8386ae89,0.69,email recovery,declined
+306d0a1c-b95a-450f-b407-1bcd2fc4da15,0.06,email recovery,declined
+0eff756e-08a2-4095-89ae-8c22767c537a,0.36,discount,accepted
+e1a45bd3-db95-4784-82e2-c4b150c217ba,0.38,recommendation,declined
+4c4b53ec-4687-4a62-a19d-7493b1d5d282,0.45,discount,declined
+3c684b67-5ede-43c1-9be4-71aa79002801,0.83,email recovery,accepted
+5ead061e-decf-4329-96a4-8b6807a06874,0.62,recommendation,declined
+9e88c022-f222-4da7-bfe2-87f15aaedb79,0.63,discount,accepted
+2f985efa-bd10-4e1b-bdec-df5c00913b41,0.07,discount,accepted
+3b6871eb-4a34-4af2-8d36-4fe239552de1,0.96,discount,declined
+a5a020d2-922d-45dc-9069-5954785289ab,0.93,discount,accepted
+936d5c92-976a-4132-9544-0de3af28db41,0.57,email recovery,declined
+9f7a5394-057f-4f7f-82fb-2ac7305068d4,0.72,email recovery,accepted
+7ec50e98-c1f5-44e8-b65d-b95474d0bcad,0.49,recommendation,declined
+39a7d184-dd8f-488c-82ca-62756215d0e0,0.77,recommendation,declined
+de60a45d-74e4-4b26-b34e-26ed31844dea,0.5,discount,declined
+17462f65-10d0-4823-ad1f-7e8fe49c052f,0.45,email recovery,declined
+6565788e-6507-4616-9e73-aed50f04a8ad,0.41,recommendation,accepted
+aea1619a-474a-4882-a2bb-064add2229ce,0.51,email recovery,accepted
+005bd3db-f3bd-419f-b648-aa5d9d4ff41e,0.62,discount,declined
+f4cbdedb-176a-4544-888d-45ab471c5a1f,0.06,recommendation,declined
+629be556-f5c2-4ad7-898f-8b4065ffc357,0.43,recommendation,declined
+de74afbf-a634-4f04-9077-f15d3decb867,0.91,email recovery,accepted
+a297428e-98cd-4f60-8ba3-1bc6942e532f,0.66,discount,accepted
+95a7d19e-9768-4ef1-b46d-c0fb02a478a2,0.38,recommendation,accepted
+ad5d2207-f74c-489a-8f6f-bee37e4ab0e8,0.27,email recovery,declined
+0399d013-8355-49a8-b859-e5e989d5035c,0.87,email recovery,declined
+bbda28a8-6fe2-4e57-951c-fe02ba0fc205,0.29,email recovery,declined
+8b889bbb-3889-45a2-9551-8065d434e0b3,0.34,email recovery,accepted
+3c0eb4b2-f89a-49ce-a6ea-1bdf72478782,0.7,email recovery,declined
+7411d806-a2f7-4c9f-9ae3-31f97a6cf836,0.87,recommendation,accepted
+00006596-944f-4d74-8cfa-c714ab8b7cda,0.36,recommendation,declined
+774210a5-2020-479d-8f1e-50ab5ad90fca,0.64,discount,declined
+46104af3-291a-4d7f-8d0d-32f691b93c83,0.55,recommendation,accepted
+cdfbc38d-7b02-4c12-9dee-dd76dba83522,0.46,recommendation,declined
+c969104a-20dd-44e9-9538-6cf069fcf939,0.95,email recovery,declined
+c8407537-26cc-4cea-ab4a-0d253c6ab6d1,0.18,discount,declined
+2df5830a-5ed7-4aa4-afb8-86b0248382d7,0.73,email recovery,declined
+3b94c445-3179-4afb-a8ad-1018b8054a9c,0.06,discount,declined
+37e8c8eb-b7fd-44b9-90d7-881ede968779,0.21,discount,declined
+c874d99d-d378-4219-a439-7ff9c0614d4e,0.19,discount,accepted
+f1bf38f1-f253-427a-ab50-1b7fde785e73,0.25,email recovery,declined
+4cfd0f90-eb20-4523-b96b-004d4e13de9a,0.42,email recovery,accepted
+2f8795a9-723f-4305-8476-707fedc5366b,0.13,discount,declined
+1569e898-5713-490b-9d29-62903f488c49,0.59,recommendation,accepted
+a9d1a249-e5ff-476b-b6ab-0e48f85a2968,0.72,email recovery,accepted
+6159b279-5499-49e3-ab28-d3e9a7747801,0.87,email recovery,declined
+f5531b13-4b55-47f9-b8e6-d9cf058e9335,0.17,recommendation,declined
+8399ac46-1e42-42aa-b683-8b0895414449,0.7,recommendation,declined
+c677073b-9005-43c3-8331-cee8569136ff,0.57,recommendation,declined
+7bcb431b-07ad-4942-b664-f9256ac44a5e,0.58,email recovery,declined
+3c83409b-aaa8-4c38-9310-fbb3e2819ffc,0.61,email recovery,declined
+660aa800-e8e6-4735-8025-e1b98460d505,0.91,discount,accepted
+3a8f2a13-9d9c-47f7-90d4-0f0303f0fa2f,0.79,email recovery,declined
+99821816-9388-43f6-8c7b-7fcb74dfe7eb,0.25,discount,accepted
+da9e9bb6-d85e-411b-9e33-20c33eaddd88,0.82,recommendation,declined
+860e7a5b-c42a-4789-93e6-08bbadf1d420,0.3,discount,accepted
+ab1e308f-91ed-401d-bd03-79e71b90c5f2,0.5,recommendation,accepted
+13cb22f6-1fe7-4b9b-aaf9-c423362215c9,0.27,discount,accepted
+7d608776-a9b7-48f2-93c2-6f6b623e8814,0.47,recommendation,declined
+d58802b5-9605-430c-97ee-0a7d4066d5ea,0.5,discount,accepted
+851ba9bc-d101-43e5-ba7d-2937da91d6da,0.58,discount,declined
+395029b3-d800-4664-aa54-dad89033adba,0.67,email recovery,accepted
+cbc67bee-3503-40eb-b8d6-d1dabe4d1902,0.87,recommendation,declined
+20d7d25e-ded5-49d0-9751-6ef79ec3e54b,0.92,email recovery,accepted
+1e287a0c-82fe-49cf-be19-6da7f2e847d5,0.74,email recovery,accepted
+895e6980-94b6-4fa6-8761-c42056fba32b,0.24,recommendation,declined
+dcce882e-76d5-40cb-8611-39311b480b8f,0.02,recommendation,accepted
+86615f00-d206-4340-ae53-9cf4d872ff7c,0.88,discount,declined
+66567d8f-e7c8-49af-a5b4-7af220567f47,0.28,discount,declined
+a140b927-e439-4774-9c99-9991b0cc2285,0.7,recommendation,accepted
+843238f1-2e6e-4e92-9534-b94c20e072bd,0.42,recommendation,accepted
+1b4c7428-78fb-4f9f-a3e7-6bc8ef87d4cf,0.57,email recovery,declined
+c21ffecd-97a3-48a9-b64a-3903b7a78a00,0.79,discount,accepted
+63eeaa89-123d-419c-acbc-566956c1bc06,0.94,email recovery,accepted
+241841eb-de26-47a8-adf1-17f67ca35688,0.46,email recovery,accepted
+fe275201-a812-4013-838b-2bc75615379f,0.47,email recovery,accepted
+797d02c4-ea05-4dfc-8da3-9b42c24c9d97,0.24,email recovery,declined
+85af7085-d779-4d06-a1b8-0a38109da492,0.48,email recovery,declined
+28c7a104-8170-445d-9bee-6cbc089992b0,0.62,recommendation,accepted
+a9eacecd-8003-440f-948c-8870ca878a36,0.21,recommendation,accepted
+41869433-e67e-4ad3-b37c-057f2ae250bd,0.36,discount,declined
+d7bbdf32-f9a0-49d2-b433-b8b9d9e941c1,0.12,email recovery,declined
+0cd59269-6c2e-4d25-9aad-d7ed1f0d8736,0.77,email recovery,declined
+a886d543-6424-4173-b958-e90c3bdae250,0.69,discount,accepted
+d909aaab-5b39-4a43-a555-707b63717dfa,0.91,discount,accepted
+d06cbd46-9f81-487a-82c0-b14c7aedb826,0.96,email recovery,declined
+f03641dc-4346-4635-97e6-f7d825c0e627,0.63,recommendation,accepted
+66bb976c-0feb-4305-bd0c-c3267960c503,0.05,recommendation,accepted
+d9c37002-ae39-44d9-93cc-3571a676b3c3,0.03,recommendation,accepted
+008957a7-3466-4781-9028-34e1081e8855,0.67,recommendation,accepted
+4eac08ba-fb0f-4a14-a21a-737f643febb4,0.84,discount,declined
+353df731-d7d0-4ab2-af64-9b7ccbdab05d,0.39,recommendation,accepted
+bf38ce21-1e4c-402c-bc20-a9ff9507c794,0.31,discount,declined
+db70cd3e-4d37-420d-887a-ebb75f09bced,0.97,email recovery,accepted
+66db59d4-df7a-4566-b873-f40ad0cdb4a2,0.48,email recovery,accepted
+823877c7-a914-4a4a-872e-dd18260f8eef,0.88,email recovery,accepted
+2a49ebc5-7c29-4433-91a0-ad4ff5233e12,0.97,discount,declined
+d9771c29-61fb-4db9-94d3-6473c3040f83,0.75,email recovery,declined
+edc26008-aa67-4a74-8d26-0a17c71ffa2d,0.77,email recovery,declined
+61f151a1-a02b-4b87-84c1-d4c334358f92,0.55,recommendation,accepted
+bbdc0aa9-b89e-4375-92fb-b45df2fad6ba,0.91,discount,accepted
+3dbcbfaf-8bb1-4b41-9401-2f0a511ee448,0.76,discount,declined
+376cccbb-d9e8-4db3-b9aa-96464d64d982,0.27,recommendation,accepted
+8698f57a-2ad1-417b-bd59-26c0dead4c5f,0.05,email recovery,accepted
+230960e3-4dc8-4711-962d-32b0be91f8eb,0.63,recommendation,accepted
+364c5283-cc43-4eb4-8277-8c26334aee7b,0.53,discount,declined
+065b93d3-c91c-4e0a-a6fa-5dc712729d70,0.0,email recovery,declined
+4eefa019-feaf-4bae-bc4f-b0d410f6ef83,0.63,discount,accepted
+72647b48-7663-45dd-a105-94d8c91134e4,0.29,email recovery,accepted
+2bc7c470-3d3a-40c8-80c1-5cf5b085f8ad,0.85,email recovery,declined
+aed9d67b-206d-43e0-b0d0-660b98b0af49,0.99,discount,declined
+8672bab9-4ab3-4279-971c-3568dd571993,0.42,recommendation,declined
+c2e141d1-e814-4579-a84b-dda5c55ed613,0.71,recommendation,accepted
+de686c4b-b13c-47b3-9b01-23cf7bb11c88,0.11,discount,declined
+a662dc87-c635-478e-9d7c-f3dcf3c780f4,0.01,recommendation,declined
+5013d3f2-0384-48d3-a84b-3bacd1f67f7b,0.53,discount,declined
+e314d571-635c-4bbf-a79b-7de1b0d07e6f,0.87,recommendation,accepted
+b1f20a70-8ae3-44cc-8ee6-e10d41ff57d7,0.62,recommendation,declined
+dd387779-22da-4572-a3eb-fe65cb1d43af,0.38,discount,declined
+a4d32cc2-cac1-4652-9d8e-b946a1775303,0.83,discount,accepted
+e6da9fe1-1a54-4b88-a99b-513aba06522c,0.22,email recovery,accepted
+eb686ccc-2775-4619-979e-8c5056b30816,0.86,recommendation,accepted
+2703e813-6abb-4ab3-9955-13d3942b9601,0.4,discount,declined
+cce7fbde-d32e-45b4-b3b4-1d191e6733b9,0.76,discount,declined
+37b6cb24-564d-4112-8871-6306a1e8d3b4,0.25,recommendation,accepted
+a000576d-e2c1-40b1-bc8e-802f144ef3e3,0.28,email recovery,declined
+d4dea16a-c720-44ac-8299-e7f0293c1424,0.12,recommendation,declined
+af9ddff1-e1b6-4672-9243-bfe7564ddbc1,0.34,discount,declined
+fb6881b0-0380-46d6-a4ba-b942695640eb,0.33,recommendation,accepted
+91fa7c22-6a58-4bd7-9384-3bf5183f6f7f,0.41,discount,accepted
+a78e3719-4ff1-4455-a3b0-29d55fed5342,0.43,email recovery,accepted
+f4d1b976-ef99-45de-b8de-4567a16e07ab,0.95,email recovery,accepted
+e8d4455c-f940-4373-b22c-b0defea5f6a4,0.05,discount,declined
+1e08a837-b527-43af-a4b4-1a54dae8ed43,0.5,recommendation,accepted
+7ccb4763-6f2c-421b-8061-44f851156b32,0.51,email recovery,accepted
+8c2d1ac5-d06f-4eb5-9315-95c060b4fdc7,0.75,recommendation,accepted
+9c03e8aa-2106-48e9-9fe4-30fc28693c73,0.26,discount,declined
+be98a659-f76a-41f0-b1a2-dfafee9f2332,0.09,discount,accepted
+77494fd6-bca6-4c92-be83-ff3af7fd8303,0.42,recommendation,accepted
+fd6ba921-9d04-47bd-90df-e9b79d87aba9,0.87,email recovery,declined
+e4b0999e-627e-464d-a703-ff92398b1535,0.46,discount,accepted
+ac51fc66-5576-4ea3-ad66-4382fd4e1af0,0.91,discount,declined
+5b88f6e0-dfde-4c96-a8e7-6b85a21bdc9d,0.5,email recovery,accepted
+628bf3e6-71df-4fe9-9252-eb323392d9fb,0.54,discount,declined
+4fc4a96a-0913-4af1-99e3-1b817cc239e2,0.98,discount,declined
+4b7c20e1-41a4-467a-ae05-ca626656ca86,0.55,email recovery,declined
+46e49cf4-c8e7-447c-b028-2202a0a5f012,0.22,email recovery,accepted
+9e569a5d-2a34-4fc4-a677-926b4467a30d,0.56,discount,declined
+1c9e8c78-a0ae-4db1-9f6d-6c4b76b3347a,0.37,email recovery,declined
+75488638-d7d9-4009-a151-444816d04bcf,0.38,discount,declined
+42a912d2-a836-4b13-9bbb-c88bd7e694b9,0.03,email recovery,accepted
+d713118e-edfb-4d9d-87e6-4cdb7b8ffaa9,0.9,email recovery,accepted
+574d7d73-2521-4f83-bda8-5c91871fcffe,0.59,recommendation,accepted
+1066997e-c987-4f8a-84c4-154fc4747cae,0.87,recommendation,declined
+f3e17d6f-c126-48a7-a4e7-ec599c02b1cc,0.27,recommendation,declined
+1ed694d8-b5e6-4f23-acca-898d0b623fc1,0.01,recommendation,declined
+11ffd049-2e9e-40b9-a6b7-9e8514e4a7e5,0.01,email recovery,declined
+9c87b66b-d188-4a5d-a142-191cbb96c162,0.06,discount,accepted
+43d13894-9f95-4f31-a1c4-e465dcd85f78,0.9,discount,declined
+daaab377-0eac-4f34-a2ce-5b12214b0304,0.11,discount,accepted
+d366b258-93a1-4f4a-aec4-728cd1e76286,0.43,email recovery,declined
+b2d3dc74-3d72-42e7-a05b-72b89de28a2a,0.8,recommendation,declined
+f32941d4-a99f-43fe-bc04-6ebb19ab03dc,0.19,email recovery,accepted
+e1612f3c-e68a-4469-9266-b8f2156538f3,0.14,email recovery,accepted
+a862ffee-c4ca-4401-88f2-07c669b84777,0.74,email recovery,accepted
+2e49a79b-10ca-4bbe-bcaf-a74c276a6264,0.14,recommendation,declined
+54b89e2b-5dec-40d7-b71f-c8355a8a8ff7,0.67,recommendation,accepted
+76acf2a8-da23-44a9-b470-11f7d1ac2261,0.47,recommendation,declined
+ee7f01a9-4908-49b3-85eb-9bec59e5113e,0.51,email recovery,declined
+030362a1-c93e-40d9-9b97-eae7a348328f,0.57,recommendation,accepted
+f6144acd-21c6-4e4b-870b-d4f1956118c8,0.07,recommendation,accepted
+0bc09009-9be1-4ef4-afbd-ab6ebbcccddd,0.47,discount,declined
+4db26ff4-2f4b-4c46-8fc8-a9ab6d577b46,0.87,recommendation,accepted
+63f1c7b2-db8d-4787-ad67-8899017dd22a,0.58,recommendation,accepted
+41b530e9-72d1-4757-afac-b26e6a1c275d,0.7,discount,accepted
+543a8b44-a85a-46dc-a092-f02f951afd54,0.46,discount,accepted
+6442ae7a-3418-4a08-b866-25a11bb32c98,0.06,recommendation,declined
+87350e65-598a-44a4-994e-484ada871a14,0.13,discount,declined
+0e33ac42-a5e9-42b9-bbca-8c16441b88ef,0.87,discount,accepted
+d3a40bf4-aa0d-4ceb-bdd2-ef75abfe4cc0,0.91,recommendation,accepted
+9b1a25dc-a647-41de-9298-473d41a5a301,0.78,recommendation,declined
+078a20d1-7e67-4c6a-906f-cc2de202e1a5,0.95,recommendation,accepted
+9ffceb82-1abf-4a24-8c46-b54e8223a366,0.02,discount,declined
+e5078b13-7324-4078-ba46-06357c05768f,0.45,recommendation,accepted
+36eef85a-b78b-4d25-8eec-23191fa7bcec,0.82,discount,declined
+986ee877-7110-412f-bf84-760f535b7f5a,0.33,recommendation,accepted
+4a8e87a4-4108-4a1c-8a13-2b7f629eb86f,0.39,recommendation,accepted
+cd0e5ccc-5b27-4680-8c61-db7234ae64a4,0.65,email recovery,accepted
+92de4917-ac96-4f1c-bc27-63a44b7dbc15,0.11,email recovery,declined
+b7f0036f-a06a-4683-a6aa-ac2947e704a3,0.29,discount,declined
+ebe249aa-9c27-48fd-84b1-616c884f6835,0.9,recommendation,declined
+b5ad85f3-7aa2-4caa-9c66-a825a3beef7d,0.68,recommendation,declined
+3e568ef2-bc3f-4a73-a93d-2f60d23943ed,0.18,recommendation,declined
+abd68a47-07cb-4308-9d3c-30bc25ec87a7,0.8,recommendation,declined
+f6926873-8140-4f67-88e7-53303aa4cef2,0.58,recommendation,declined
+8680c0de-95ee-47f6-a1ec-5c2a06e24f99,0.05,email recovery,declined
+d2e259a9-abd6-4e08-9261-97dad6887d7e,0.76,recommendation,accepted
+3ce2e896-c1a5-474c-993b-7ae098f687ed,0.29,email recovery,accepted
+e26c1cc4-caaf-4fb4-8d8b-67d9d612f027,0.89,recommendation,declined
+4ced4552-5ce1-4412-9223-8d07b9887cfa,0.6,email recovery,accepted
+53556fe9-5cc3-4063-8db7-eaf9ed68e0c4,0.36,discount,declined
+6f749465-5d84-4464-82e3-4a66191527ed,0.87,email recovery,accepted
+c5013db7-e504-499c-baa0-0e6427bbe676,0.62,email recovery,declined
+36ec8f8b-523a-4793-8c95-be34206e000e,0.76,discount,declined
+e137f565-b094-433e-a9d1-b9154e4ba33f,0.91,recommendation,declined
+80b5e8f8-dbc1-4b1b-86ed-c57c5a520a5a,0.99,email recovery,accepted
+98f3d832-f560-4866-be5e-e0e857be7b88,0.21,email recovery,accepted
+af21a62b-f7e3-4288-bfd6-e16dcc3aa4fa,0.89,discount,declined
+1068f704-eb7f-4584-9ca6-d0cbbbcb2bcb,0.99,email recovery,declined
+b6dd749c-26dc-46e5-8ce0-e379c222d059,0.89,recommendation,declined
+eecd07d1-9597-4aca-b58e-17477a9315f4,0.92,email recovery,accepted
+74df0425-9b40-4eab-b9db-6519fddedcb6,0.99,email recovery,declined
+006f9ea7-fc4c-4413-90e6-50993eb21f80,0.38,recommendation,declined
+d84d9519-fc04-4c7c-a39f-3d482fdc4ed1,0.76,discount,accepted
+3ba08dd6-3654-4948-8786-9b519e5d67d6,0.21,email recovery,declined
+5d76f1b4-5b78-4095-8ebe-b17d325f7389,0.14,discount,accepted
+ac29d4ae-42f9-4d9e-900d-920e79c0be05,0.65,recommendation,declined
+777ffacc-1338-4d35-a9b8-e8fef9c73e2a,0.14,email recovery,declined
+b5890020-8e68-475c-ad86-858601e37ce1,0.16,email recovery,accepted
+b4cd81a7-d43f-48ad-bc69-e5b8cc7972bc,0.81,discount,declined
+b2d77aef-4316-48e2-8743-fca3a7fdf98d,0.17,recommendation,declined
+2846c708-d43a-40d3-abec-c70498469517,0.08,recommendation,accepted
+d90193a5-4506-42cf-80df-9c84701fd833,0.71,email recovery,declined
+5ac4badb-b131-494c-9957-d25988099909,0.66,email recovery,declined
+f963c68d-71cc-40b4-b2f2-53f3cadf4253,0.58,discount,accepted
+6c0b3d5d-00aa-4f67-81ed-6d7e0277b5d9,0.98,recommendation,declined
+67c64f3f-812a-46dc-a8b1-2a7e133fa68d,0.55,email recovery,declined
+529f7c3d-9159-43ea-9394-bf06b7740536,0.69,recommendation,accepted
+d5ff397e-0faa-43ff-a7b2-df0000a36be8,0.33,recommendation,accepted
+9c863984-d73e-49a7-b19e-e8f31b5a36e5,0.41,email recovery,declined
+cf529b83-0751-46e5-87b1-3591077af992,0.04,email recovery,declined
+4a1fdd17-9304-4281-bd17-446dcbfa67a9,0.1,discount,accepted
+ccf0c452-abe2-4e3f-91ca-1b0fd83eefd8,0.56,email recovery,declined
+b60139b7-b6e3-4eec-bf1d-c5ec4af705ae,0.45,discount,declined
+470084eb-117e-4664-9912-96c268e5858a,0.3,discount,accepted
+c7938ed0-7a8c-4bbf-84be-b46255fa85f3,0.58,email recovery,declined
+6eba8a92-f883-4794-970c-ee4432c9452a,0.31,discount,accepted
+b68929bd-3440-4e64-9d54-c50e3e04fb80,0.25,recommendation,declined
+789a1752-435a-4902-9a89-67c682407985,0.19,recommendation,declined
+1d734088-45da-4f73-9f74-56a265095579,0.51,email recovery,declined
+544bad50-a916-4b6a-ac1c-cdf909b7cfde,0.73,recommendation,accepted
+984b9abc-5978-4718-9e05-940b0a911ff8,0.9,email recovery,accepted
+88df4edb-7e5c-4e1a-8f32-54d557df2549,0.61,email recovery,declined
+fa7a0fbe-a609-4b64-a9bf-e0c7e6b66724,0.76,recommendation,accepted
+7d0b3568-57a4-4096-b374-56ff68f78a16,0.13,recommendation,declined
+f924de8e-f6a3-4a8a-9794-35d92f5b77ce,0.77,recommendation,accepted
+12fdd245-72b0-4bf7-8608-f0b087862897,0.08,recommendation,accepted
+eaa01910-da94-4001-9e9c-9e70a895ce3e,0.25,email recovery,declined
+d5cefe47-8b60-4377-a55e-d003563be409,0.72,recommendation,declined
+f611a219-1833-4753-bd04-829d59922fdf,0.28,recommendation,declined
+45024bad-2afc-47f5-b7da-925088fadd46,0.11,recommendation,accepted
+d3bfafe3-7411-467e-bf14-647c9d31e1a5,0.68,recommendation,declined
+2fdfd943-f3c9-48e7-99f4-7d2c2c4f4a11,0.63,discount,declined
+d2b30809-aad6-4f9e-9965-bcce38c15c11,0.64,email recovery,declined
+1a4507bd-a495-4f37-ba90-3dfe0af8da76,0.7,discount,declined
+4f46354b-68a3-4fd9-b103-11d98f281401,0.64,email recovery,declined
+63994ff6-3bd1-4a7b-88ef-3e71ef01a7b7,0.29,recommendation,declined
+60f9483b-a60c-4f96-918f-bbef17629480,0.05,recommendation,accepted
+28ca2550-6765-4b98-814a-fef3220ae203,0.27,discount,declined
+3ad0498f-f7d7-4b25-8e37-0f7759ec3ab5,0.92,email recovery,accepted
+b0e930ca-be6a-41fa-b4be-14c37748bad7,0.04,discount,accepted
+4567ed28-dc0f-41a3-9ba9-636aa52440b5,0.08,recommendation,declined
+98958554-1f21-477f-a044-529c721ce63c,0.78,discount,accepted
+841dc8ea-d454-4a4a-bd39-d47b84ba4072,0.04,recommendation,declined
+5f1f0cf1-1bb8-49ec-adfe-fc2440c5f1ec,0.11,recommendation,accepted
+6149c571-d519-4158-8239-69960ffd7b3f,0.2,recommendation,declined
+2e5c736d-55a2-43e5-89bc-1400c45034c3,0.82,recommendation,accepted
+865735bf-e2d8-454f-b85b-5c93ce691029,0.82,email recovery,accepted
+4d6b9b44-f4af-44cd-b6f2-c230cdb41350,0.8,email recovery,declined
+b61b42ab-946d-420f-85d5-5a8b6ca07186,0.0,recommendation,accepted
+d67511df-a291-44e1-a0d9-edc3e8ee985c,0.17,recommendation,accepted
+23736a2f-45f3-4970-995f-3f5ab25e7378,0.73,email recovery,declined
+699771c4-c4fb-4c0d-b279-9e28fb2dd293,0.27,recommendation,declined
+6a51fa7b-93ce-4c18-adb2-4d3f8efbe9e9,0.58,discount,declined
+348f9995-3539-42cf-8d49-f002d107ed17,0.13,recommendation,accepted
+265eaa6a-4b15-40fc-b948-806543fac04b,0.44,email recovery,declined
+7a522cbb-d355-4eaa-9495-fe006ca4fc6c,0.82,discount,declined
+853cfe45-fba1-4370-8828-3186e2d43194,0.83,discount,declined
+183b8563-191b-4f76-8075-ddc78c3f25b3,0.81,discount,accepted
+d62157ad-a1a1-403e-b8db-f58e54a71929,0.1,discount,accepted
+917c13c3-898f-4d2d-b790-efad6eacd6e3,0.15,discount,accepted
+ddb3b5dd-d960-487b-a129-6d84f58991e2,0.02,email recovery,declined
+34675cf2-9cd1-4e05-910b-00bdf8d4e51b,0.56,discount,accepted
+6aafe7d6-ef7d-429a-a81e-a65e46f84cde,0.45,discount,declined
+40bd461e-1941-49ff-8cc4-aa164a60e84d,0.67,email recovery,accepted
+9c0f6c65-d795-40ca-889e-f2d252e05597,0.59,email recovery,declined
+cfe47504-56bf-48f7-ad79-e9ebbbc543f0,0.86,recommendation,accepted
+8183f0f1-d3cd-4b4c-842c-086fbf487a07,0.77,recommendation,accepted
+495cfa3c-25e8-4457-b671-50c4883e0a4d,0.7,discount,accepted
+1432d064-826c-4826-a182-ba54351b8a8e,0.59,email recovery,accepted
+00604097-f97d-4749-b36b-8766e505691a,0.38,recommendation,declined
+d2de074e-f06d-4457-9435-36a84536dd40,0.54,discount,declined
+29b61fb6-af50-4bb5-8e28-fb8b745de298,0.5,discount,declined
+3a7acda8-f52e-4001-87c4-06d0cb0cc967,0.0,discount,declined
+d5119a35-77a3-44bc-92d7-fadc3146f78e,0.61,recommendation,declined
+521ba0d6-5bdb-487f-a552-c0b75afb1453,0.18,recommendation,declined
+a46f6bf0-c9e8-4c3e-86ac-890e36018b56,0.03,email recovery,declined
+7ee70961-5688-4f90-96e5-51a08b51dc87,0.49,discount,declined
+c164dae1-2bff-46d0-a6a2-f857badb50e2,0.07,recommendation,accepted
+da2b4fea-f0be-4128-be5e-ba55e547bd52,0.26,email recovery,accepted
+7a3883ec-54d6-4d98-83b8-265b61e0386c,0.91,email recovery,accepted
+2c67b7dc-be67-4465-92ad-c354032ec2d8,0.19,recommendation,accepted
+46871194-ddf2-4514-8941-2f10dd15ed34,0.28,recommendation,accepted
+643b1c7e-40db-4d61-b10d-8cb5a77395dc,0.92,discount,declined
+ef8204d3-c910-4193-9e98-8a065b939bb2,0.18,recommendation,accepted
+b956c207-d108-4a43-ab66-990019e16422,0.32,recommendation,declined
+63cd052e-5c49-45b3-accd-47634f7a5870,0.43,discount,declined
+45180cf3-eb4b-429a-ba6e-8d29d6f3c40b,0.4,email recovery,accepted
+be0b0499-9eac-45be-bbc9-262d88bc0cab,0.61,discount,declined
+53c6e9ff-6588-49ec-864f-1efa154484f6,0.75,recommendation,accepted
+4940651d-67a1-450f-87a6-d1355239e1e0,0.26,recommendation,declined
+434f4376-ad97-4abf-8825-4cff5daf8de7,0.63,recommendation,declined
+208e771e-38d3-4a7c-bc8c-3f940ef0bdb1,0.63,recommendation,accepted
+ff5d8b28-8332-4ff9-8752-878473588473,0.69,email recovery,accepted
+4f602972-961b-49b3-bdf1-4003c752dd52,0.22,recommendation,declined
+15754a65-7c1a-47ca-99db-9af1bf026db8,0.56,discount,declined
+4e5fb6bb-6c74-4a6f-9945-0dd062c5a8dc,0.82,email recovery,accepted
+e59b6a88-ff00-4b50-8815-36782ee77bcb,0.53,email recovery,accepted
+6b43c377-783b-4c39-81d9-db133950cac0,0.86,email recovery,declined
+42603b08-2ebb-4f24-b229-d751a812eb35,0.1,email recovery,accepted
+5700790b-2ae1-442e-8aed-0bbd3ab4a3e5,0.04,recommendation,declined
+cd07726b-ac96-431e-8bf1-9e719d5a15fe,0.65,discount,declined
+68ce1461-ac2e-42ea-99f6-00b500ed3213,0.99,email recovery,declined
+dfc2e620-2b68-4561-80b4-bab9b9ee36a1,0.83,recommendation,accepted
+7c98d23c-69af-4eda-9df5-7e75ade65c7e,0.98,email recovery,accepted
+75b15843-a0fd-4c18-b95a-2e32155cf913,0.1,discount,declined
+27e646c0-fb01-4a49-a8f5-6ffd62230866,0.13,recommendation,accepted
+4b31d9ea-a206-4cb6-bd62-0e1bec0f0ef6,0.77,recommendation,declined
+36b6358f-490c-4afc-a8db-4cf05a1a93ae,0.81,discount,accepted
+888b8218-b21c-4901-861c-4d06cd5a1000,0.68,email recovery,declined
+f6eb592c-692d-4eaf-95d4-d0af7cf8b1a6,0.51,discount,declined
+7133918a-e8e7-4463-9f79-f3f329ea8def,0.44,email recovery,accepted
+e3df91e1-df00-4241-b670-dda29c5a3db4,0.96,discount,declined
+c0cc78ef-06f2-4c47-87c6-4e24232b15ea,0.64,recommendation,declined
+93053ca2-f2fe-45d2-960f-2d3ab75c7e29,0.74,recommendation,accepted
+145588a1-dcfe-4e9c-8415-e301123cb915,0.34,recommendation,accepted
+ee06f31b-fa68-49b2-97c6-1509bee3b90d,0.23,recommendation,accepted
+f1d6fdcb-06fa-4f32-abcf-c5cd75501686,0.12,discount,declined
+6bb51484-a7f5-457b-b76a-9835d5f7365c,0.49,email recovery,accepted
+e390d946-8708-4d80-85da-df16f80cf2e7,0.91,email recovery,declined
+27f1f2a6-78d7-44b1-a059-28f08418ad8e,0.84,recommendation,declined
+8ba8d6e8-8531-494b-8993-3bbe3265f0c9,0.53,discount,declined
+74fed070-2226-4de5-93f1-ac356de6cef8,0.67,discount,declined
+673b7eb7-fc0f-4ab0-830b-20b70d331d4c,0.47,email recovery,declined
+a9960943-cad1-49bc-a9bd-26c5ab1379ff,0.67,email recovery,declined
+35ef2620-19ca-4d90-a56b-677b1fec78a2,0.9,discount,accepted
+ab89a8b9-bb80-43e8-a8f0-b87b11c21e64,0.85,discount,accepted
+a4f5f308-47a0-412b-82e4-702ee6ffb09d,0.05,email recovery,declined
+95237de0-7204-460b-82f7-af4f7c653aa2,0.28,email recovery,accepted
+f6a547a9-3589-4460-a769-e4469fd290cc,0.99,email recovery,declined
+0f2a220c-2dce-476e-ba66-bcc1cf37e428,0.27,discount,accepted
+79980de5-a724-4b87-874a-c5c9232dd0ca,0.31,discount,accepted
+99e68447-2e73-484d-a43a-6df068958fae,0.03,email recovery,accepted
+4280c4e2-45d7-49c9-b8b4-cff288da3d44,0.58,email recovery,accepted
+5fa4b1b8-df8c-46d4-8038-517375d4eff1,0.1,email recovery,declined
+9f237ecd-2912-4388-8278-b8edc3e7b948,0.39,discount,declined
+edc536f8-d896-4fdb-b63b-bfe03c0a230a,0.16,discount,accepted
+f87d6fc0-d20b-4775-a7b2-8cca08b9793d,0.69,discount,declined
+232226ba-e91f-4870-94e0-a3eace531844,0.35,recommendation,declined
+f148840d-7442-4574-b7fd-ae108d3dbcc7,0.64,discount,declined
+82de474f-dd85-49cc-bfcf-61e991dd2571,0.35,discount,declined
+62fd7416-9b58-4d86-908a-c1c01628b6c0,0.85,discount,accepted
+6f6db3c6-3fd4-4d20-a842-0e47693976a1,0.31,email recovery,accepted
+788a0149-b588-4bc7-8206-99983037de58,0.71,discount,accepted
+ab316060-5cce-43c0-8dad-ed07676a7c50,0.45,email recovery,declined
+b914ab03-f8b8-4429-bfac-e6d7b19174db,0.34,email recovery,declined
+21d909f1-32ea-4705-aa17-7155ce94f597,0.75,recommendation,accepted
+c777aa47-81e9-4f3e-8ac0-ebe3091ffba5,0.55,discount,declined
+42d810e1-7878-4aac-b7ab-61b0f3fe4859,0.38,email recovery,accepted
+f37e341a-c857-4964-9673-f0637daae4ca,0.2,discount,accepted
+f1aa2ae3-87e8-491a-ba92-5bf61a0ff18b,0.34,discount,declined
+53d73bf7-8ddc-47a0-b8ef-f1eb75e5c2a6,0.59,discount,declined
+84f225bc-2862-43f2-b27c-d2c3ab738954,0.81,email recovery,declined
+72a0d6d6-d804-4464-a311-5cc2fb02b540,0.25,email recovery,declined
+2f040704-e68a-4924-ae55-dce6d48aa2a5,0.18,email recovery,declined
+c80fd2c2-87ad-4e4f-bcce-1b553030eff1,0.89,discount,declined
+f3e95cf8-2940-4b24-9dfb-8e2724f185d7,0.18,email recovery,accepted
+32e0d10a-de12-4cca-b171-c5644e4c09aa,0.53,email recovery,declined
+689b954b-978e-4f7b-946b-a82f47504fc0,0.62,recommendation,declined
+4b288b62-16ce-4554-8486-5a408373305b,0.58,email recovery,declined
+61e33194-b6e4-4543-99ed-7e63059110de,0.63,recommendation,declined
+5f2b2a2f-31df-42cb-8369-d28dc99f49e4,0.21,email recovery,declined
+fef323e7-18bb-49e6-9632-72294946be9c,0.28,discount,declined
+09fcf26a-034f-4f27-90b0-8e7b09e2afc0,0.03,discount,declined
+4b6ba32b-89c3-4a5f-95f1-394859a5a015,0.47,discount,declined
+4a545ce5-16c9-4ecb-8db6-c0af2d06c784,0.38,discount,accepted
+73c0ed03-8642-4508-8fa8-01b4fc4e21a5,0.86,discount,declined
+91b54f9a-7362-4b86-b79f-f223605aed11,0.79,email recovery,declined
+08f5f7d6-88ad-4893-8d68-c3eaff94447f,0.49,recommendation,accepted
+b517b37c-801d-4b83-8a4b-0ef0bc9c32cc,0.94,discount,accepted
+22b7c71c-78ab-41ea-8c81-e3068d01d81f,0.88,email recovery,accepted
+01e1a867-65fc-46cf-afbd-350ce076c60b,0.88,recommendation,accepted
+445e08ab-86ad-4981-8d10-033df55f3619,0.97,recommendation,declined
+efe8acab-ce88-49be-b6e2-f363bd085257,0.43,recommendation,declined
+313585b1-5883-4b6d-a86f-00347c9221a8,0.02,discount,accepted
+2696ba11-9ba1-4e6b-a61c-ce0a9a95d635,0.77,recommendation,declined
+97c0a79f-185f-4b14-81ed-6827850e7c95,0.99,email recovery,declined
+d5777cd2-1b98-4f22-96b5-93432f9c470d,0.13,recommendation,accepted
+27902628-e0f3-4601-bcb1-8be4e711b29b,0.84,discount,accepted
+edb8c5bb-89dc-4ae1-8bdc-ca214eac5636,0.08,recommendation,declined
+7228f5bd-6be3-455d-8117-7fc070e331dc,0.24,discount,accepted
+0a77f1b6-1055-4690-9368-c4c3247230a8,0.58,email recovery,declined
+217311cc-24dd-4591-a541-5096d6136fbc,0.19,email recovery,declined
+2133386d-997a-4c90-af7c-99cce76647fc,0.89,recommendation,declined
+54ddb5d8-e8a5-4886-9bc6-5a6cfafc5782,0.91,recommendation,declined
+bb19ba42-e4b3-4e43-bd47-3dfd05629544,0.81,discount,accepted
+0ebf2f7e-2600-42ff-8b85-5dc621c836f4,0.28,email recovery,accepted
+284de75a-39c1-4679-932f-eca21845109c,0.1,email recovery,declined
+74fd09e4-bffa-4827-92c5-11b559297ef0,0.46,recommendation,declined
+eb33ac93-1383-4485-91f8-1dfa4ec797c4,0.86,recommendation,accepted
+4720a869-833c-4852-92f1-b3898cb8bfdc,0.91,email recovery,declined
+7f18658c-f6f3-4c20-8549-a6ddf888689a,0.4,recommendation,accepted
+b480c8cd-9cfb-41b3-8b2c-7dc9b9c530a7,0.21,discount,accepted
+ecb1e076-59b0-42a7-a02a-32f72d6f2ff3,0.69,email recovery,declined
+1f49deac-9dda-4998-a0b1-fabb7c85fd17,0.93,recommendation,accepted
+4ca0be62-5b0e-47ec-9960-1307820d3cac,0.48,recommendation,declined
+22684062-9e95-48cb-b4f5-a269f819d01f,0.05,discount,accepted
+1cef10a5-1c5c-47de-9485-55954cac42b8,0.59,discount,declined
+1af90fff-b51c-495f-8aa5-ac623993cf80,0.48,recommendation,declined
+58d7b487-36ef-4d59-8426-a4fae5f1a5f1,0.4,email recovery,accepted
+0a213e2b-495d-486e-af89-c70fdc1d8973,0.72,recommendation,accepted
+474bcb0f-8260-492c-b10f-673fce30c825,0.56,discount,accepted
+fd53f136-c5c3-4182-9df8-477f2dbc3ded,0.42,email recovery,declined
+1d4f16a6-48a5-4472-b998-4f65dc14319e,0.69,recommendation,accepted
+4bc57a80-b125-465c-9175-0e6a9fad1d37,0.96,discount,accepted
+182c9558-2156-46d4-a5e4-3e08f4b16440,0.13,email recovery,accepted
+3cd38e0b-3393-43c9-9e2c-d3988e95aca9,0.15,discount,accepted
+e3d2d04e-4a78-4ce7-a5a2-648e53315111,0.37,discount,accepted
+9f7681f7-3339-4b15-bcd8-dcf1a586126a,0.33,email recovery,declined
+51e9f398-5c1c-4f79-a267-d5c6ccf62fc1,0.99,discount,accepted
+df751009-03a5-4805-812d-08e7d71e0120,0.23,recommendation,accepted
+8dd41723-2431-4c3e-afbb-6b7d97115d25,0.88,discount,declined
+1d1e3235-28ff-4a29-99ff-f46da0a7a09d,0.6,recommendation,declined
+20716932-fe92-45ea-aa86-e9199a492244,0.72,recommendation,declined
+d3163998-e9d3-4a79-979e-a378989a883a,1.0,recommendation,accepted
+7180ef0a-e315-4ab3-a496-9f5f2c17eaa5,0.39,recommendation,declined
+e047dfeb-69ab-4d0c-956d-2ed252f1d3f0,0.41,recommendation,declined
+10865bb5-dbbe-421b-b9b9-b40cd4875b17,0.32,email recovery,accepted
+4528cb37-477f-4946-a22e-93a61c017ae8,0.35,email recovery,accepted
+79c5dbe3-ba03-4125-a7a1-168ba58b14ab,0.77,recommendation,declined
+539cebcc-0231-4288-b59c-2c84f0367640,0.89,recommendation,accepted
+e679f6d2-c320-4843-b4cf-a3029c2b5e04,0.61,discount,declined
+a3409c85-0f04-46c6-a28f-f43f5d88f5f3,0.23,discount,accepted
+181822e9-f79d-401c-84e3-9fbfb12a9eef,0.93,email recovery,declined
+24161432-4aee-40f0-b902-5b812eb906c6,0.83,discount,accepted
+68cd4e7c-3b54-498a-84b4-4a8b5304906b,0.08,discount,accepted
+7e39a397-dec9-4d45-9afc-3430e9fe638a,0.21,recommendation,accepted
+e30378d1-91e3-4b3c-858e-338537b20d58,0.47,recommendation,declined
+fed22028-2dde-4d45-a64c-4653d78b5f41,0.82,recommendation,accepted
+d07c6125-4101-40ae-bf77-3c9bb9e265d1,0.42,discount,accepted
+62d96b45-205e-44be-ba51-b86bccbcffc9,0.39,discount,accepted
+a15ffb65-da94-4171-adf4-9934a71417db,0.13,recommendation,accepted
+3f5f4ca1-16c6-4af9-b866-80b82dde7ca1,0.07,email recovery,declined
+316eea9b-2007-4502-98fa-9fed0e93f5b4,0.78,email recovery,accepted
+c04a598c-1254-410f-b11b-ff1caa31995d,0.09,recommendation,declined
+5ece926d-c388-4ed7-b87f-cf61a44e8fba,0.62,email recovery,accepted
+9a0f9be7-0151-4df9-b804-4b811025f2c5,0.66,email recovery,declined
+10d6ecf9-e690-4fb1-bfc8-7de06614e83f,0.69,recommendation,accepted
+5a0892ba-163e-4eb7-9fbb-991684c23f89,0.61,email recovery,accepted
+5fdf2fb0-39e2-4950-8ff0-c978940d6477,0.57,email recovery,accepted
+4fcf0a2a-b92c-4d33-8597-77809522b98b,0.32,discount,declined
+2ca3062a-0a88-40e4-950b-a8ad5466a161,0.29,recommendation,accepted
+4ef34d68-65d0-465e-b428-563c053fb9cb,0.57,recommendation,accepted
+02282045-e783-43e2-9f1f-609c3d666d27,0.14,recommendation,accepted
+0a5db677-1b9e-4ae3-9f2d-d6c1c2a4796f,0.44,email recovery,accepted
+d4aa1268-72ed-4767-aed8-10e136ef3202,0.63,discount,accepted
+b3fc5c4b-ac9a-479f-85af-abf4ac319aaf,0.02,email recovery,declined
+df54ca62-6ba9-4690-9b9c-d75eb48438ef,0.56,recommendation,declined
+c3626b1c-d6d8-4d22-8b85-dc10026a928e,0.09,recommendation,accepted
+e99a9c44-f5fc-4a64-a8c5-866628bee74c,0.94,discount,declined
+7e90c0ae-b9ec-45bd-8312-575520020dcb,0.8,discount,accepted
+a35ed58e-f4ed-4fd9-b36c-1f53ad9f0673,0.97,recommendation,accepted
+12299b63-edb9-48fb-b8df-be6831e8cca5,0.46,email recovery,declined
+42010659-81d3-4db2-9b8e-428c2675ecfe,0.3,recommendation,accepted
+67a9019f-dc9d-45aa-8e3b-52d509dd0378,0.68,recommendation,accepted
+631e57a7-6a68-475a-870e-1257a570c3f3,0.81,recommendation,accepted
+19008960-cdba-4230-8447-ce719d136fb4,0.05,discount,declined
+6ed9a442-da72-422a-94c0-1fd48e7a3875,0.21,email recovery,declined
+4022cb2e-6bea-438e-8c7a-db535f4c47cb,0.32,email recovery,declined
+212e5493-ee3e-4905-aa01-016fefb51ba6,0.47,recommendation,declined
+953870b0-29ea-4ccb-affe-93bc1870bb9b,0.99,recommendation,declined
+a6c61463-b8cb-485d-a63a-b04863ceeebf,0.66,recommendation,accepted
+09374afb-10ce-49f5-8df6-5ff862b6d53c,0.09,recommendation,accepted
+df9478ac-d4a7-4d4c-91fa-d1c1964d99e1,0.96,discount,accepted
+0d71a935-0edc-4ad5-9d16-8dea4d26d44c,0.54,email recovery,declined
+c4038bf9-50d7-4e82-b1e9-d5abcb7b1250,0.11,recommendation,accepted
+9df9c05a-7679-4db7-8b0c-3486f2c9f780,0.43,email recovery,accepted
+e451b16d-1e3f-4738-ae10-78c52bb0f916,0.3,discount,declined
+e827a164-40dc-456a-a581-b6d24d61f31d,0.28,discount,declined
+bd827fc9-1ec0-46e5-9358-cefd46a39910,0.24,discount,declined
+eed2afe5-a5a1-4cb7-9ef1-3d4deeb89d43,0.9,email recovery,declined
+8f7cd12c-43bc-4321-bd7e-8b432aa56434,0.4,discount,accepted
+bdb84c02-4545-42f6-99b6-5ac6a9c9a874,0.76,email recovery,accepted
+0de4849f-a861-40bd-94d2-695d6375994b,0.36,recommendation,declined
+680c3899-6e46-4b71-b6a0-abd63f5a43ca,0.72,email recovery,declined
+319d57ea-243f-4e6a-b706-aeb0eb79e6c3,0.82,discount,declined
+e93a9a2b-8e4b-4f2d-b84c-e0bd77fc9b6f,0.38,discount,accepted
+67df9f30-4e30-4626-89f2-25bb8dabfae4,0.73,email recovery,declined
+e6048159-8972-4f3e-b292-b799133d46da,0.34,discount,declined
+29f8a8cf-ddce-4993-9edf-1ca9350091ef,0.18,email recovery,accepted
+b8debdfa-631a-443a-b4ef-fd44eb4f0281,0.47,discount,declined
+4a629e38-75a0-447b-8b5e-20a43aaa3972,0.68,recommendation,declined
+aa6bff7e-4aea-4651-a019-5c9402b503e8,0.52,discount,declined
+1f730c3c-10fb-4d34-ab59-3880b064e654,0.98,email recovery,accepted
+99598e20-6938-4e0b-b993-64e5debc5b79,0.8,discount,accepted
+b7e0d4e3-e505-4e94-b2d7-fbcffb68179d,0.45,recommendation,declined
+490012e6-db87-47f1-b6c6-4358ae7f98bc,0.32,discount,declined
+6516ad5e-6e75-416f-bfa5-73e77410cd36,0.34,discount,declined
+547531f2-0fd6-4911-9396-5bd08e9b5b59,0.59,email recovery,accepted
+ab78848c-046f-48cc-9915-bd1a0e698814,0.55,discount,accepted
+ef440098-a71f-4d26-9c0b-ba131b741fb9,0.78,recommendation,accepted
+0e566671-7c58-4b4a-a476-9161b5ce4399,0.2,discount,accepted
+2b3f254a-c90e-4119-9214-03cf8e833a69,0.43,recommendation,accepted
+981ce31c-e2d3-4db6-8ea9-f23ceb344c5e,0.13,discount,declined
+3746bcac-7e16-49b9-b56d-2adc91ec3980,0.71,email recovery,declined
+d53d6071-0a4c-4a0d-b5b4-c367d29bf720,0.06,recommendation,declined
+7f5e8a31-a81c-4dbc-a48c-9d54d5c95c7b,0.2,discount,declined
+9a16e803-638b-4f2f-8b8e-1833b1858dbc,0.83,discount,declined
+fe1e8e20-fcbd-462a-a6d8-3293bdf7ad79,0.94,email recovery,accepted
+b53b1d75-5c64-4eb8-b925-73713e95645f,0.18,recommendation,accepted
+a68414b1-1193-48fd-a2af-11599c65633d,0.49,discount,declined
+40d94016-7fb6-482e-ae99-1b612f531e09,0.22,recommendation,accepted
+0e74364f-98b0-4524-9767-7e1adf75c562,0.73,discount,accepted
+d69a33bb-4f06-4f71-994d-6448193e79f0,0.67,discount,declined
+d335b309-e265-40c5-89f9-a0dd8408bf5f,0.5,discount,declined
+d90960a5-707e-42f9-bef2-3399c9f69efa,0.76,discount,accepted
+63a7a70d-c0ef-4d1d-8f85-65c32358d2a8,0.85,email recovery,declined
+d5b6a9bd-ebb9-42e5-8cd8-aa12db743fed,0.99,discount,accepted
+3dfbea61-e59f-467e-a681-da7e476d507d,0.58,email recovery,declined
+bcf1c05c-8d91-417b-ba35-28233f0e241f,0.46,discount,accepted
+b4d80087-773f-497d-8ae8-abf663c0cbe6,0.59,recommendation,accepted
+394a3a48-c036-4858-b548-290d930a8b63,0.83,email recovery,declined
+91b49888-6a2d-4023-ac4a-0e21c3d276c5,0.93,discount,declined
+28cd3bd2-c9a1-4a58-bac7-b68152c17b4c,0.56,discount,accepted
+668b1570-b627-4c8b-943b-b0f4dfdd6380,0.32,recommendation,accepted
+2096197a-d7ac-4a19-83eb-257436b3b011,0.49,discount,declined
+2eda9e79-cdfb-4719-88ad-0515ede9a899,0.58,email recovery,declined
+c2ee81d1-7799-4ae3-820d-d1252c275fa1,0.34,recommendation,declined
+f0461e15-fffe-4d89-983c-9f84cd9ac832,0.5,recommendation,accepted
+fcb24560-c2ec-4547-9379-7eab82d91cd8,0.58,discount,accepted
+6da17e06-203a-46b6-b622-c573ee054524,0.27,recommendation,declined
+cb34e5d1-2045-4940-9909-63950c9a4da1,0.01,discount,accepted
+2e05dbf0-b120-47c1-9242-606b3770d0a2,0.97,email recovery,declined
+fd1495f2-8bc3-48a6-96aa-b6e5d640a537,0.57,recommendation,accepted
+52da778f-aae4-45bc-9747-043a1ca02031,0.43,recommendation,accepted
+f04c3cc4-b112-4475-a4d9-10a9f56e1c58,0.5,discount,declined
+1274d8fb-f6d8-43ce-930f-5a7603690362,0.5,email recovery,accepted
+2fc1b14a-cec2-4367-99e6-653765da417f,0.71,recommendation,accepted
+884afbde-7673-4bf8-bb1f-74d5c07d4d36,0.16,recommendation,declined
+87879e31-f078-409a-96b9-0b4eb8111102,0.85,discount,declined
+4183557d-a869-4402-b8ab-23692fa92e1d,0.55,discount,accepted
+071186b2-7a4d-4d9a-9e53-debc4bbfb617,0.12,recommendation,accepted
+69588233-250c-4a39-a855-0e7810e73e66,0.76,discount,accepted
+94544cf4-b67a-48fc-ae8c-4afe73d0dde4,0.11,recommendation,accepted
+d45e108c-842c-412a-9c61-ada5b02d1ce1,0.36,email recovery,declined
+1055a201-6958-4ded-a36c-f13b19a409f6,0.09,recommendation,declined
+6c5687d4-6f83-400a-839c-5095647831cb,0.07,email recovery,accepted
+fdaa7ce7-910d-46db-8496-08929a779aae,0.15,discount,accepted
+831ae098-41f2-415d-8712-1a4d14023f59,0.58,email recovery,accepted
+188a40f8-c8fd-42c2-ba3b-bbcb2cdb126d,0.18,discount,accepted
+b737db5c-0fc3-44ee-a8f0-63a15d050619,0.5,recommendation,accepted
+1868c4d7-ee5b-4deb-8e2f-f8f04589c3b5,0.19,email recovery,accepted
+1ae3ead4-9e86-49db-9872-71b6075e10fe,0.93,discount,accepted
+52e25c57-4493-422f-b3fa-b4e304fb9ba3,0.44,discount,declined
+b44daa96-6f93-441b-b48b-dd357b516c11,0.93,discount,declined
+916bdd2d-d68e-4aea-aa21-5c572ec6f40f,0.42,discount,declined
+188bcd53-8b75-4d56-be79-b20e62503511,0.82,email recovery,declined
+1bc407b9-be05-4c24-b9fb-f7510771cb83,0.0,recommendation,accepted
+d08497bc-7707-4393-8133-bb5fc1251a7d,0.98,discount,declined
+480b980a-db86-4500-b89e-0fd82439eb33,0.05,discount,declined
+17b9bfc2-bbcf-4ad7-9c5a-41aa34ac2836,0.2,discount,accepted
+32b11c66-0be3-40e9-95c7-bf5366804948,0.38,email recovery,declined
+d0eb313a-a4b8-4125-86e2-5a5851e158d8,0.8,discount,accepted
+3d5ae230-93dc-4f5e-889d-98f1d77cc1bb,0.51,discount,declined
+89046f43-96e7-4a96-bf09-8603ad01337c,0.49,discount,declined
+ee2b4703-1ba1-4a96-b80a-d7f6fb0f23df,0.93,email recovery,declined
+adf88f87-53d6-4716-914b-71e67a6d51dc,0.1,discount,accepted
+1a6afdcf-5bbe-43d1-8d0b-3b48d528094f,0.6,recommendation,accepted
+2713fcf6-358a-42f3-87bb-02d4e66d191c,0.47,email recovery,accepted
+41dfc7a6-93e1-41d9-9e39-4e224374de16,0.96,email recovery,declined
+b8dc9095-8de9-4856-8793-b51eb33f1346,0.48,discount,accepted
+9500da08-4ac0-4d54-a05c-8f4b061fecdc,0.05,recommendation,declined
+a1f505ad-f295-471d-993c-8e7f5c1790a0,0.02,recommendation,declined
+26657dec-f017-4e75-9942-754354bf047e,0.43,recommendation,accepted
+143ea29e-fe7a-4d92-8f49-fcf4367251d2,0.32,recommendation,accepted
+476039b7-a147-463f-b049-37fd60c2a5c8,0.98,recommendation,declined
+13e5a696-3076-4597-8d40-c4390598a29e,0.74,discount,accepted
+93c6620a-1de8-4029-975b-577dfbc90b37,0.32,recommendation,accepted
+028bf178-5601-47a3-ad23-dbdf0cdc0fa8,0.84,discount,declined
+28b4e296-9042-44ab-a110-ab028d1ae6e0,0.75,email recovery,declined
+d8c92fdc-6ed9-49b9-a6f1-98cac7c5f74e,0.07,discount,declined
+0c65d94b-2f3b-4629-9ad8-db0fa694f3e2,0.16,recommendation,declined
+e1eac44b-2071-463e-9780-40212277f897,0.6,email recovery,declined
+860db3df-8236-4f88-993e-f81b618c3fa5,0.45,recommendation,declined
+156ae5e3-3c5d-4e03-9388-cbeb9aa9dbda,0.72,email recovery,declined
+a34100d8-7be8-4ab7-ade3-1ad58cb665d7,0.58,email recovery,declined
+665c4f7c-ae1e-469e-8bdd-f709f8d73c71,0.73,email recovery,declined
+2a42311f-b4ae-4ee3-ad7f-9c2be664d773,0.8,email recovery,declined
+716c9137-4ea1-4bde-b421-7a5307c9af6b,0.51,recommendation,accepted
+13899fb8-7760-461e-8d17-4fb875f88f06,0.2,email recovery,declined
+d9edaefe-49c8-4b9e-aa54-a926a893c3cb,0.87,discount,declined
+fd266ff0-6af5-4263-9d2b-fe20fb766365,0.77,recommendation,accepted
+3292f70f-8166-4ac2-8909-e2c81f59e387,0.53,recommendation,declined
+f97a0e8f-8fe6-4e9e-91b2-c4b6b0ae9724,0.79,email recovery,declined
+6a3e0a32-8a80-479d-af4e-19d42075d1fa,0.6,discount,accepted
+d6045574-bab7-4435-af2d-51114ff26c84,0.25,recommendation,accepted
+4bfbf8cf-f808-41a2-abf5-706dd8430306,0.52,recommendation,accepted
+aab5c03e-0a4f-47de-9091-999f78614a3f,0.93,discount,declined
+8f12e693-0df4-4d79-9e94-db082ae28480,0.32,recommendation,accepted
+d6c47909-666f-429e-9bdd-dbcc0fee2fbf,0.75,recommendation,declined
+1015bab2-7601-4067-891c-71686ff5df8d,0.15,discount,declined
+a9203af8-d3ec-460f-a4f7-db46d03cf6c4,0.29,email recovery,declined
+07a9e82b-c166-44b6-85db-c15b8ad174dd,0.7,email recovery,accepted
+9ab89981-cf29-4f24-ac49-53fbe8b3a29e,0.51,recommendation,declined
+e519fea5-d78a-4873-8323-ce85b1d5debe,0.39,recommendation,declined
+c717a376-c6b1-4958-8424-7ef56f7ea15d,0.58,recommendation,accepted
+df0db5ee-14cb-4b44-aa7f-e7de7d493825,0.75,discount,accepted
+1f8d2876-3e33-4a55-90f6-63808e21286b,0.25,recommendation,declined
+e3a7d036-9821-4be6-bae1-e7d01ffb59d7,0.92,discount,declined
+49c2dd8e-489e-4fec-9c32-a1bed9a663e7,0.24,discount,accepted
+cd88923b-50d4-4eaa-b748-b492a21c309f,0.88,discount,accepted
+009e6f88-fcd0-4b90-894d-e80bae2f46be,0.32,discount,declined
+f8fcbd94-91b0-4841-beca-a7aecba671f0,0.41,recommendation,declined
+2a765981-8d76-4b37-8e50-63eb5fabaee6,0.26,discount,accepted
+a1900c21-7b49-4631-a6c9-2e14ccb8ec70,0.47,email recovery,accepted
+09d0b26c-aca9-4326-a795-78fa9bb9b35f,0.65,recommendation,accepted
+747b3ec0-bfae-4faf-9d94-cdaebba3589f,0.64,email recovery,declined
+5dbee761-1b2f-4342-86c1-f4652dd4040d,0.7,recommendation,accepted
+21bbcebf-ff38-4df9-912a-e2d1715d539a,0.87,email recovery,accepted
+25cb1c51-ecc7-411d-a325-a2e8a973bf02,0.1,recommendation,declined
+65ea7dd1-4791-4df8-a193-abcba0dbb3c4,0.99,discount,declined
+7c289a6e-fe86-485a-ba56-1213fdac3f29,0.08,discount,declined
+57ba0f9c-bb1e-4897-82a1-21f9f29372e0,0.64,discount,declined
+c60df4c3-c11c-430d-a82a-3e32a0878cae,0.74,email recovery,declined
+af787ef5-b11f-4648-81fc-dcfb170a8de7,0.56,discount,accepted
+600fc9cb-782a-4154-b8ca-0d2f1e4f2dd7,0.4,email recovery,declined
+38fe8ed9-d8b1-43cb-a317-87b56babcaee,0.76,recommendation,accepted
+6f4d0149-b1de-4df5-9645-dc4a6955a3cc,0.32,discount,accepted
+035f45cb-d57c-43cc-92cb-d97c7414955b,0.66,email recovery,accepted
+7912d89e-b335-46f9-8c6d-1dd1528b7ec4,0.17,discount,accepted
+9836cb84-8c78-4f56-8333-6e8dfe9dd56a,0.18,discount,declined
+bad83a57-1e26-446d-88ee-80aca8a34da6,0.5,email recovery,declined
+0d9370a8-9b32-4178-917b-ea64c641d554,0.48,recommendation,accepted
+1958f2f1-c764-4e83-aaac-e6bab0df4ff7,0.48,discount,accepted
+3f13eb07-8a66-4094-8dbb-c3d318c5cfc3,0.48,discount,accepted
+6f4f9443-d9fa-47b0-b94c-719a127a4c95,0.09,recommendation,declined
+e3379935-8769-4709-afcf-0467834e1aad,0.07,email recovery,accepted
+de86f82c-f4bc-4431-91f9-eb5fd67c06ae,0.02,discount,accepted
+74904865-a7a0-4b0c-9e47-6f2c0b6e04be,0.93,email recovery,declined
+3eb60b65-cc41-4552-ab5a-58e6cbf4a401,0.77,discount,accepted
+d7add69c-14e0-47e0-a29d-afd2ed0b93a9,0.78,discount,accepted
+b65c0c25-1200-4df6-bf44-c97ef92811f2,0.8,recommendation,accepted
+9ac9a9b1-6df2-4f4f-a232-175e9219aeb5,0.97,email recovery,declined
+0460bef1-e4ed-483a-84c9-9337fb527440,0.51,discount,declined
+b39510a2-c85e-41f4-8bdd-af0ed281930a,0.04,discount,accepted
+12911e75-950b-407f-9a4b-24ddc8898d76,0.68,email recovery,accepted
+f8ed6d71-9df8-41cb-8242-d82857859ce3,0.91,email recovery,declined
+2daa7379-c5d9-42ea-9846-bfb4fc2f8141,0.53,discount,declined
+74d7784b-d29a-47ed-a2e7-079b1fd4ad1f,0.2,email recovery,accepted
+1f9fbf03-ac0e-4811-b3f1-7262167784f5,0.62,discount,declined
+d4055ccc-22b9-41c4-9fcc-1cbf5856ae86,0.26,recommendation,declined
+2735c7e4-633f-4576-9d37-dcda624e68e0,0.39,email recovery,declined
+f43f6c80-9a62-4af7-acc8-e522abfc4f11,0.83,discount,declined
+45443180-8f1b-4273-b3d3-d7e4f7e315a6,0.5,email recovery,declined
+b51ad270-3871-4a71-af90-ef92afddd496,0.69,recommendation,declined
+7a5f6761-cbc0-440e-ad2c-6c6419694a98,0.4,discount,accepted
+da672855-a8e3-4e2d-be58-56a372666b6a,0.08,email recovery,accepted
+5740def6-649f-4c62-a39f-5767e68023b1,0.61,email recovery,accepted
+f637546d-3c8b-4c59-8fbf-743609bd8331,0.57,recommendation,declined
+092bc8c5-0554-4b90-bc78-84b99e5dafb8,0.13,recommendation,accepted
+c4ce96f2-77a6-4738-baa7-2459a3017763,0.53,recommendation,accepted
+d50f8e4c-ffda-4f0a-a34c-e9c450147084,0.12,recommendation,accepted
+d38e963a-d361-4518-bec3-d0594b80e7ae,0.2,email recovery,accepted
+3fec1153-96cd-415d-9687-1971b106d868,0.61,discount,accepted
+a1d7bf21-df4b-4954-aa76-3a86ec16e523,0.86,email recovery,accepted
+6a1a3153-ca71-4bd7-9839-f77045fac7c3,0.78,recommendation,accepted
+668f0b5c-cc19-4339-a046-d29f179b5b2d,0.52,discount,declined
+615f54b4-1563-4158-9ec7-8e0f96652d7a,0.2,recommendation,accepted
+9451c15b-26d8-4870-9f88-bac2b80c197a,0.42,email recovery,accepted
+5390d786-2cb3-4b80-a285-ced4102831db,0.64,email recovery,accepted
+248081fd-446a-45ad-b37b-359ad673413b,0.53,email recovery,accepted
+c662d496-8365-462f-a102-5b19d6bce012,0.91,email recovery,accepted
+6617276a-4890-44ce-b035-7b12b30fd64d,0.75,email recovery,accepted
+3b03c8eb-0636-483b-8820-d68940dbff6f,0.72,recommendation,accepted
+df6518fa-eea6-4ce8-9e4e-f9d64e539f67,0.88,recommendation,declined
+06716d80-98f9-4f5f-8a32-093dc6d690b0,0.86,recommendation,accepted
+ae4b7ab9-d089-4b99-a803-b3bcba7aa919,0.8,recommendation,declined
+58c1192a-d81c-4968-b32d-09bd2a6a8eda,0.39,recommendation,accepted
+914b75a1-9a66-4186-92a2-4e071eaf7574,0.75,email recovery,declined
+062432fd-9a63-4913-b64f-ce926b64e390,0.16,recommendation,declined
+8843ece2-68b6-4d84-bbcf-2db8a57c7e53,0.35,recommendation,accepted
+b86c4027-2d79-4653-ba8f-27d5aff8243d,0.68,email recovery,accepted
+c78fb6fa-e43c-46a9-9e16-432892d1c9b6,0.72,discount,declined
+86b865d4-d1f6-41e7-afeb-7996d9c7f51b,0.45,discount,declined
+a73b2627-f478-42cf-bd63-cf28bf863776,0.54,recommendation,accepted
+57251cf4-d10a-4831-9c37-06608ae7a244,0.88,recommendation,declined
+c5b4286a-3c93-42c9-b396-658d43358bf3,0.01,recommendation,declined
+1d6c53ea-4991-4163-a56e-d9fb4dca8218,0.45,discount,accepted
+53bf64f1-cc69-46ca-9c1b-342fc0ac7148,0.55,recommendation,accepted
+ef0cfa86-51c1-4a6e-9724-aad62f4810c6,0.14,discount,accepted
+9da29edb-5bb1-4f97-86aa-757b7178dd33,0.89,email recovery,accepted
+f0f299eb-34cf-4912-8d61-f10dd7b8345c,0.88,recommendation,accepted
+8bbec19c-ee0e-43a0-b090-f6d6caeb3a20,0.88,discount,declined
+a3d71859-841e-446b-9e52-29a5717296a6,0.64,email recovery,declined
+c6b23c83-18bf-410d-bf83-d9854a3fa96e,0.53,email recovery,accepted
+6a4d4354-83c5-4e58-b420-65e76629d647,0.7,recommendation,accepted
+e4d7aaeb-576d-4394-8673-5cd2f2ddb0e6,0.04,discount,declined
+5e13459a-3840-435c-8be6-c1e5cd0e00a2,0.19,recommendation,declined
+f35a4724-e354-495c-a2c2-8cfb5b7f7306,0.73,email recovery,accepted
+0fa33cc0-a2d1-4b07-a488-32699de6a00c,0.73,discount,accepted
+17ab3506-bc3c-43a2-8544-cd49c2fe7aa4,0.54,email recovery,declined
+3b9ab098-1a0d-4987-a501-e0f79ef66bfd,0.68,recommendation,declined
+3ad7a027-2a30-4e7d-9610-95cc4ad13442,0.41,email recovery,accepted
+32b89b88-e181-4bac-bbdd-28478e716776,0.92,email recovery,accepted
+0df884b0-b5d2-40c8-9998-052afdf20614,0.87,discount,accepted
+50f149f8-cbe9-4520-8876-e1218bdc4b7e,0.6,discount,accepted
+f4cf790b-8d98-448a-a0b5-c079f7be3aff,0.8,recommendation,declined
+5771057b-f9bf-42cd-8821-0d1c0b3d80fe,0.9,discount,accepted
+af0e8623-2cff-4a20-9705-568cc2e6907b,0.38,discount,declined
+66e54c8c-07b5-4dd5-b57c-bd3cb71557d2,0.15,email recovery,accepted
+7dee270c-86fc-46a5-a09a-2ee501ece3e9,0.55,recommendation,accepted
+c16a2b1a-66d7-42b1-b8a4-fda0d1f576a4,0.93,recommendation,accepted
+8126521c-8db4-4363-b700-5c3bc99922c8,0.54,recommendation,declined
+b48a7a60-951a-4e67-90f0-68bb72d9359d,0.78,discount,declined
+7a1b96cf-c107-4fe9-bb5d-8d722cf0c5f5,0.37,email recovery,declined
+12812e08-ea0f-432e-bef8-65750b1d3021,0.03,recommendation,accepted
+e3f6a263-f643-4640-adb5-77f34bf0af05,0.92,discount,declined
+15593ace-fc79-4573-b8db-01af2caec44a,0.58,discount,declined
+59905551-316d-409d-a9fc-7646e308596c,0.56,recommendation,declined
+db1e96b9-28d8-47dc-a5b5-dd39c2da0fb4,0.26,recommendation,accepted
+4889d2c3-31a3-4188-8cc2-9cc000964d1c,0.12,email recovery,declined
+2c18de91-e0ef-4422-b05b-7c66d3fc251e,0.14,recommendation,accepted
+301c6d8e-4175-40fd-a8f5-270e24391faa,0.32,recommendation,declined
+50ad5802-7682-42fc-933b-5bee9c9e9465,0.67,discount,declined
+c4ec71e7-cc2a-49f0-88bf-30ee90d65896,0.06,recommendation,declined
+0a823dbc-75b5-43c3-9330-f7dadab77e5b,0.03,discount,accepted
+2492ffee-7b3b-4f34-885c-a62d6607f440,0.27,recommendation,declined
+4b3e4de0-66a5-4b99-acbe-b42329e7d0da,0.06,discount,accepted
+c85be139-8a31-4023-9521-02629125fa41,0.09,discount,declined
+5131c4b2-b228-451f-b31f-af15d0500e42,0.04,email recovery,accepted
+a23353ca-0890-4387-9215-807cecff49ad,0.81,discount,declined
+0d915ad4-1419-429b-b9de-c781ce0101f2,0.34,discount,accepted
+9920bf24-1df2-4397-9fa7-ff844db22b29,0.32,email recovery,accepted
+296b8d95-c5cb-4aad-b819-4ed446c9fcd2,0.49,recommendation,accepted
+4274bc58-c4df-4709-91c3-df874361e025,0.29,email recovery,declined
+664cdb0c-76d8-4191-af1c-ad0ce64b631e,0.42,email recovery,declined
+ec5530fa-7aa4-4de3-ae4e-a4df8fcda880,0.4,email recovery,declined
+0aac20a4-c607-46da-b05f-41c48abd0378,0.74,discount,declined
+2ff951d6-7fa8-46c7-ac2b-1196bf775c0b,0.59,recommendation,declined
+5f3aa355-8eac-489c-9784-2485baa9f564,0.26,discount,declined
+4fa6c1ca-ed06-466e-9872-0345d40d70ab,0.67,recommendation,declined
+519ad1f0-6a99-414b-9ab5-aa1a56ace904,0.18,discount,declined
+ddd236f6-80e4-4ff8-bf8b-f15d8394bef7,0.73,discount,accepted
+462053ee-3a7e-4b9f-b0d3-ed74c013229f,0.28,recommendation,accepted
+19e3c76e-18f9-4d39-9739-e23bf4add7af,0.73,discount,accepted
+e7455abb-0e8a-4fd8-b605-d17be9b05732,0.84,email recovery,declined
+01fa5686-03f9-4cb9-b7b1-3b4d3bdd61b8,0.08,email recovery,declined
+dc30f0d6-218d-45cc-851b-949ba2521539,0.34,recommendation,declined
+fb470a0c-3bf6-4b76-a9aa-67c6d23acb57,0.1,discount,accepted
+d913098d-cf30-49de-a999-187fef1a6890,0.67,email recovery,declined
+cf50eb89-026d-4529-9adc-094c182420fb,0.54,recommendation,declined
+4c52d69b-e88d-4a36-8a42-94fee3736754,0.23,email recovery,declined
+8aac2d29-fe89-4a74-8ad3-d3cd2d6b37b4,0.73,email recovery,declined
+08d17ac9-8544-464f-a6db-f41f0ee219a2,0.51,recommendation,accepted
+4a0b7079-d9e0-4644-a299-23e8b7207c8b,0.77,recommendation,declined
+5db7bb69-3781-4907-8e57-eb97b0d5ef6a,0.81,recommendation,accepted
+a4b81290-a379-4024-801d-b9ce4ad0b4e1,0.44,recommendation,declined
+d296eb91-eb98-4b1b-9cf7-3feabfd32e11,0.79,recommendation,declined
+ad56ed7a-25c3-46e7-90f0-9dc6844529f0,0.8,recommendation,accepted
+7e5c6791-9df8-4fbb-95df-de71de0623fd,0.55,discount,declined
+38089fe2-a86c-460c-8575-955044e7e9ef,0.58,email recovery,accepted
+872da639-39b7-4c3a-8195-cca316ad4c19,0.93,email recovery,declined
+b15b233e-c1d9-40ad-9863-6379cd74a3c8,0.72,recommendation,accepted
+3cd5df19-fdb1-4c97-b515-ec052ae4693a,0.75,recommendation,declined
+f64b035e-1bea-42bb-8bfc-412ad5639ef8,0.81,discount,declined
+df8290b2-8db7-41bb-91f5-e60ebb57c708,0.08,recommendation,accepted
+68742255-9f8a-4372-a490-159331f298bf,0.55,email recovery,accepted
+7c3dcd53-2ac5-4998-ae95-17ed2d0accad,0.23,recommendation,accepted
+f070647d-63cb-4fee-b42c-e9595d6e8ddc,0.63,email recovery,declined
+d065f254-8a1f-4915-8ef5-9706b16d505f,0.39,recommendation,accepted
+15284d1b-5ec4-46d8-a1f4-4fed6fedbd2f,0.09,recommendation,accepted
+fa9e5ff3-d948-475e-b5f7-ca9aa24da330,0.31,recommendation,accepted
+e01cde42-4941-4c97-a049-589de9f7e85a,0.79,discount,declined
+2b3b3309-95d0-466d-916c-2d0fac5f1d6a,0.86,email recovery,declined
+f4cb16fa-4d10-4bf4-a937-11b2139a64f2,0.51,discount,declined
+85fe7a4d-7da5-4e0d-96a5-7d795854bf7c,0.03,email recovery,accepted
+350050d8-4e8c-4c01-a590-eac94ebd5fec,0.51,recommendation,declined
+0db171e6-1abc-4dfc-ae34-a950ad8d5e19,0.43,discount,declined
+a8bbef0d-f09c-4d40-b8c4-b500cf805a31,0.18,discount,accepted
+16a0dbb8-2c22-4821-998b-8fe775643676,0.82,email recovery,declined
+4d7aebdf-6051-4668-a9d6-71ee7559f87d,0.89,email recovery,accepted
+3fd3ae00-a6f4-44cc-ba5f-230b8f474dde,0.32,discount,declined
+3ba37ba5-5f24-4126-b194-71f8328ab945,0.35,recommendation,declined
+261d57c2-6ed5-41fb-8024-21b23e20239f,0.2,recommendation,declined
+932c8339-909b-49ce-a9f0-828c818fcd41,0.82,recommendation,accepted
+169a0e9f-4181-41eb-b323-ab3428f277ba,0.2,recommendation,declined
+ebd84f6a-ce2f-40b8-ba0e-8132010c1cf1,0.71,recommendation,accepted
+7d28ee5a-0fe8-4fc5-8885-3639a5302c77,0.29,discount,accepted
+e27dc13a-d666-4186-87ba-7de019953c0e,0.3,email recovery,accepted
+cc72934c-314a-43e4-8526-868f9edfbd92,0.5,discount,accepted
+f6091cf3-f232-49e2-8a51-f10d1f59a21a,0.22,email recovery,declined
+762b47b9-6bd2-40b0-91e3-7b2138578a46,0.99,recommendation,declined
+19eff8d0-dddc-4c5d-81bf-c6a86adbbbfe,0.31,discount,accepted
+929b3f03-1c12-4f24-9702-d2cc9f07fa14,0.2,recommendation,accepted
+1498008e-7473-40ba-bb51-9cb466cbcd7f,0.57,email recovery,accepted
+e279faac-1685-48a4-ab67-d51c698dc8ae,0.56,email recovery,accepted
+16a73bdd-bd16-42ec-91f8-7225f5684f8d,0.84,email recovery,accepted
+d8d62343-bbf4-4087-a5e6-1024ef16b142,0.14,discount,accepted
+930d6fd2-d513-42da-8a94-ef91b652ea4a,0.95,discount,accepted
+289c76a0-7fe0-49ce-979a-02e7edde3d8a,0.39,email recovery,declined
+4d51a633-d9b9-4beb-9f36-e6b51a3b7d72,0.66,recommendation,accepted
+dc870b37-7312-41b3-8b7e-634f05c56663,0.75,email recovery,declined
+febf4a0c-49fc-4d79-aedc-e49edb3d7f20,0.27,email recovery,accepted
+d475b00c-c8e9-4c0b-8c20-cb81171926f5,0.32,recommendation,accepted
+1d3eb56b-bc11-42a8-8db7-7aee66a26364,0.98,email recovery,accepted
+4ff71822-661b-4829-9a0d-4e01f4aa2700,0.02,email recovery,accepted
+6ccf3938-acbd-4409-9681-6ece7d7c59e0,0.51,recommendation,accepted
+02e41446-cbe8-45f3-acfb-4959240753b8,0.17,email recovery,declined
+c05d8d56-52b4-4825-83d0-825ffb18c3a0,0.54,discount,accepted
+c5b979cd-15b5-4b8e-9fb1-afa03a846650,0.73,email recovery,declined
+da692471-553c-4ae0-8c45-6779876ebbc9,0.25,discount,declined
+8485500e-7954-489c-b55d-e394f2d998e6,0.98,discount,declined
+bc8ea03e-c1a8-4741-ab5d-417a20e35ca9,0.51,discount,declined
+13689010-e86b-4db7-9e08-51d37d705955,0.6,recommendation,declined
+608f285c-cf27-400d-a296-d96c5f9cf89c,0.69,email recovery,accepted
+106b223e-5587-4280-a542-fae5a387bd08,0.16,recommendation,declined
+a1dde2a1-c124-4ea6-8432-05a8f63a77f0,0.49,discount,accepted
+80144290-7b74-437a-903c-0566fdbe8e29,0.03,recommendation,accepted
+33c01b78-fa6e-4c45-b01f-ceb0446e4269,0.81,email recovery,declined
+768bcdfb-1300-49b5-92f6-bf91cf9efcee,0.12,recommendation,declined
+9c9c3fd0-2b0c-410c-a578-312f30fac1b3,0.73,discount,declined
+c2f7b38c-8876-4932-bc3f-5a623e9dc94d,0.11,discount,accepted
+f4a2355a-7428-4ee7-8661-1bd8068a525f,0.54,discount,accepted
+2f8f7eb9-4429-47f3-ad14-909cb8bb7e8f,0.65,discount,declined
+a35efcf8-777c-4c64-97d0-e7be78e4f1a8,0.67,recommendation,accepted
+383a14d0-23c0-49a0-86ac-a2a842d4efd4,0.47,email recovery,declined
+a4aea861-a2bd-4a85-9e58-2ed688c37329,0.89,email recovery,accepted
+36095ae6-a177-4642-9023-639a506ed32e,0.03,discount,accepted
+53ab9068-26e1-4b12-9ee7-d0094d3fe7ae,0.68,email recovery,declined
+46b0fd68-d4ea-4de3-acbd-b4b3e241021f,0.59,email recovery,accepted
+8d407286-c04c-43cc-ad9c-5ed7867f8be0,0.44,recommendation,declined
+993f586c-3dec-47bd-9ef9-f6b78d17bc6b,0.96,recommendation,accepted
+7fbfd4c5-b51b-4621-8908-8d721633c482,0.26,email recovery,accepted
+6027c1dc-af2e-455e-87f9-602bf14318c6,0.37,email recovery,accepted
+a387989d-0777-4227-a352-adc8f9094d41,0.25,discount,declined
+b95cbab7-8ca4-42b0-9947-c03322433a61,0.37,recommendation,declined
+4dcfa179-b1d0-4cd4-b0c9-bc8f58b466cd,0.13,email recovery,accepted
+ab5df2d9-1e53-450b-a459-7de520c96fdb,0.79,email recovery,accepted
+4e0eca18-4237-43fc-a299-5384bfe51973,0.8,recommendation,declined
+0b9bf233-67ab-421a-8333-186e716f0cb9,0.76,discount,accepted
+f2e6d9ec-33bd-4857-afff-8a19a4be11e5,0.03,discount,accepted
+d4901df4-9da9-4946-bde0-3069f3e588b6,0.11,discount,declined
+2296d16b-d613-43fe-97f4-4e898de53578,0.57,recommendation,accepted
+06b189af-8ac5-447c-a019-4e3fb339f32f,0.19,email recovery,accepted
+393e7cae-8e2a-4f15-83e8-722d398716e4,0.3,discount,accepted
+4f4a9001-1445-481f-b2f1-822c05577714,0.64,email recovery,accepted
+386e12c7-87f2-44fc-b8ec-a9f0eec79a5f,0.9,discount,accepted
+e343c907-9622-469b-b5cd-f24daecc0c40,0.53,discount,declined
+242b04f6-ba8f-4ca0-823f-9e1a82e53e19,0.61,recommendation,declined
+720591ad-84bd-4ed2-b372-ac40e59731b3,0.51,recommendation,declined
+015bb774-d711-4136-b58d-3e52c8f5ea0a,0.81,email recovery,declined
+f642c87c-59cd-4ef8-ac83-419259ad6cf5,0.59,email recovery,declined
+204f3b74-bccf-416e-a16a-2fb806853143,0.58,email recovery,accepted
+c88a8b40-ac73-49e7-832d-b2c4e6298616,0.6,email recovery,accepted
+011cf963-2a02-4bc6-90c1-5f878f775065,0.24,email recovery,accepted
+37f8df87-c2c9-497e-86b0-fe62388a9e73,0.44,discount,declined
+9dd26aa8-0a67-4a21-844a-f57b740e500e,0.73,recommendation,declined
+e0d8f1df-eeec-492a-862b-d7c4167698b7,0.63,discount,declined
+c76de2c1-f1ad-46fd-ae36-b8c2a15e19e3,0.85,discount,declined
+996241df-058a-46d2-b492-7f8df8064e70,0.35,discount,declined
+9c7e2957-fdd0-4802-8c28-c3ac09eda254,0.17,discount,accepted
+6ef1461e-b0f2-44b3-b8b9-64ef71aeb43f,0.76,email recovery,accepted
+01417efe-c99b-42ec-b361-72c8aef7675c,0.63,email recovery,accepted
+40a42a71-f989-48b3-90a8-e5dd4f014f6d,0.79,recommendation,accepted
+f8dd5b9a-e1f9-4271-a142-ca1681ef67b3,0.09,email recovery,accepted
+033e7d77-142a-4f91-b2e7-7f646016e25f,0.23,email recovery,declined
+4f3fe9b8-150e-4952-8200-44277f14ac28,0.56,discount,accepted
+fff3ef32-435e-4f9c-9efc-2c92d00741ed,0.33,recommendation,declined
+5b426b5d-2b0c-42cf-a3ff-3fb189a1a896,0.24,discount,declined
